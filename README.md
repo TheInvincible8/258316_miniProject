@@ -1,1 +1,1 @@
-# 258316_miniProject
+# RSA Algorithm for Encryption and Decryption of Message
